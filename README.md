@@ -11,7 +11,6 @@ This project is designed to automate the process of removing and replacing the b
 - [Result](#Result)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ## About the Project
