@@ -9,7 +9,6 @@ This project is designed to automate the process of removing and replacing the b
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
@@ -38,26 +37,6 @@ The Background Removal Project allows users to:
 - **Tkinter**: Provides the graphical user interface for file selection.
 - **OpenCV**: Handles image processing and displays the result.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/jastieee/bg_removal.git
-    cd bg_removal
-    ```
-
-2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the project**:
-    ```bash
-    python main.py
-    ```
-
 ## Usage
 
 1. **Select the Original Image**: When prompted, choose an image from the original images folder.
@@ -72,3 +51,4 @@ For any questions or feedback, feel free to reach out:
 - **Name**: Jhustie Mae Cruz
 - **Email**: cruzjastie@gmail.com
 - **GitHub**: [jastieee](https://github.com/jastieee)
+- **LinkedIn**: (https://www.linkedin.com/in/jhustie-cruz/)
