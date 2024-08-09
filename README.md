@@ -51,4 +51,4 @@ For any questions or feedback, feel free to reach out:
 - **Name**: Jhustie Mae Cruz
 - **Email**: cruzjastie@gmail.com
 - **GitHub**: [jastieee](https://github.com/jastieee)
-- **LinkedIn**: (https://www.linkedin.com/in/jhustie-cruz/)
+- **LinkedIn**: [Jhustie](https://www.linkedin.com/in/jhustie-cruz/)
