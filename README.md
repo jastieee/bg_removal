@@ -8,6 +8,7 @@ This project is designed to automate the process of removing and replacing the b
 
 - [About the Project](#about-the-project)
 - [Features](#features)
+- [Result](#Result)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [License](#license)
@@ -29,6 +30,16 @@ The Background Removal Project allows users to:
 - **Background Removal and Replacement**: After selecting an image, the background can be removed and replaced with a new one.
 - **Automated Saving**: The processed images are saved in a "masked" folder, with names like `masked_filename.jpg` for background removal and `background_number.jpg` for images with a replaced background.
 - **Easy Re-selection**: A window opens using OpenCV, allowing users to press 'n' to pick a new image and background.
+
+## Result
+
+Here are some examples of images processed using the Background Removal Project:
+
+### Original Image with Background Removed
+![Original Image](original/horse.jpg) ![Background Removed](masked/masked_horse.jpg)
+
+### Image with New Background
+![New Background 1](masked/background_1.jpg) ![New Background 2](masked/background_2.jpg)
 
 ## Technologies Used
 
