@@ -44,8 +44,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone[https://github.com/jastieee/bg_removal.git]
-    cd background-removal-project
+    git clone https://github.com/jastieee/bg_removal.git
+    cd bg_removal
     ```
 
 2. **Install the required packages**:
